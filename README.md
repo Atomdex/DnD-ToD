@@ -21,6 +21,7 @@ Link zur DnD Beyond Campain [hier](https://www.dndbeyond.com/campaigns/6524535).
 13. 28.11.2025: Unterwegs in der Karawane II ![Link](Sessions/13_28-11-25.md)
 14. 15.12.2025: Zwischenstopp in Daggerford ![Link](Sessions/14_15-12-25.md)
 15. 17.01.2026: Unterwegs in der Karawane III ![Link](Sessions/15_17-01-26.md)
+16. 03.04.2026: Unterwegs ohne Karawane ![Link](Sessions/16_03-04-26.md
 
 
 ## Sonstige Links
