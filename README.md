@@ -23,6 +23,7 @@ Link zur DnD Beyond Campain [hier](https://www.dndbeyond.com/campaigns/6524535).
 15. 17.01.2026: Unterwegs in der Karawane III ![Link](Sessions/15_17-01-26.md)
 16. 03.04.2026: Unterwegs ohne Karawane ![Link](Sessions/16_03-04-26.md)
 17. 24.04.2026: In Waterdeep ![Link](Sessions/17_24-02-26.md)
+18. 07.06.2026: In Waterdeep ![Link](Sessions/18_07-06-26.md)
 
 
 ## Sonstige Links
